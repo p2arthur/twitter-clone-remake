@@ -47,6 +47,7 @@ export const LoginModal = () => {
         disabled={isLoading}
         value={password}
         onChange={(event) => setPassword(event?.target.value)}
+        type="password"
       />
     </div>
   );

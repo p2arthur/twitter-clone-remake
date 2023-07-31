@@ -1,4 +1,3 @@
-'use client';
 import { AppProps } from 'next/app';
 import Layout from '@/pages/components/Layout';
 import Home from '@/pages/components';
